@@ -1,0 +1,191 @@
+<mxfile host="app.diagrams.net" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/130.0.0.0 Safari/537.36" version="26.2.8">
+  <diagram name="Page-1" id="g_066_nedVKF8JUPNaa8">
+    <mxGraphModel dx="1044" dy="527" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
+        <mxCell id="AHIDOIKwN_Zopd-SzxPn-8" value="" style="rounded=0;orthogonalLoop=1;jettySize=auto;html=1;startArrow=classic;startFill=1;shape=link;fillColor=#647687;strokeColor=light-dark(#8e8f90, #a9b8c7);" edge="1" parent="1" source="AHIDOIKwN_Zopd-SzxPn-1" target="AHIDOIKwN_Zopd-SzxPn-2">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="AHIDOIKwN_Zopd-SzxPn-10" value="1. Send Events" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="AHIDOIKwN_Zopd-SzxPn-8">
+          <mxGeometry x="-0.108" y="-2" relative="1" as="geometry">
+            <mxPoint x="-6" as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="AHIDOIKwN_Zopd-SzxPn-1" value="Windows 10 Client&lt;div&gt;Wazuh Agent&lt;/div&gt;" style="fontColor=#0066CC;verticalAlign=top;verticalLabelPosition=bottom;labelPosition=center;align=center;html=1;outlineConnect=0;fillColor=#CCCCCC;strokeColor=#6881B3;gradientColor=none;gradientDirection=north;strokeWidth=2;shape=mxgraph.networks.pc;" vertex="1" parent="1">
+          <mxGeometry x="364" y="420" width="100" height="70" as="geometry" />
+        </mxCell>
+        <mxCell id="AHIDOIKwN_Zopd-SzxPn-11" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;shape=link;fillColor=#647687;strokeColor=light-dark(#74787b, #a9b8c7);" edge="1" parent="1" source="AHIDOIKwN_Zopd-SzxPn-2" target="AHIDOIKwN_Zopd-SzxPn-3">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="AHIDOIKwN_Zopd-SzxPn-2" value="Router" style="sketch=0;points=[[0.5,0,0],[1,0.5,0],[0.5,1,0],[0,0.5,0],[0.145,0.145,0],[0.8555,0.145,0],[0.855,0.8555,0],[0.145,0.855,0]];verticalLabelPosition=bottom;html=1;verticalAlign=top;aspect=fixed;align=center;pointerEvents=1;shape=mxgraph.cisco19.rect;prIcon=router;fillColor=#FAFAFA;strokeColor=#005073;" vertex="1" parent="1">
+          <mxGeometry x="389" y="270" width="50" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="AHIDOIKwN_Zopd-SzxPn-13" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=1;entryY=0.5;entryDx=0;entryDy=0;shape=link;strokeColor=#7C7C7C;" edge="1" parent="1" source="AHIDOIKwN_Zopd-SzxPn-3" target="AHIDOIKwN_Zopd-SzxPn-4">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="AHIDOIKwN_Zopd-SzxPn-14" value="2. Receive Events" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="AHIDOIKwN_Zopd-SzxPn-13">
+          <mxGeometry x="0.2025" y="-1" relative="1" as="geometry">
+            <mxPoint x="23" as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="AHIDOIKwN_Zopd-SzxPn-29" style="rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.25;entryY=1;entryDx=0;entryDy=0;shape=link;fillColor=#e51400;strokeColor=#B20000;" edge="1" parent="1" source="AHIDOIKwN_Zopd-SzxPn-3" target="AHIDOIKwN_Zopd-SzxPn-6">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="320" y="100" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="AHIDOIKwN_Zopd-SzxPn-3" value="Internet" style="image;aspect=fixed;perimeter=ellipsePerimeter;html=1;align=center;shadow=0;dashed=0;spacingTop=3;image=img/lib/active_directory/internet_cloud.svg;" vertex="1" parent="1">
+          <mxGeometry x="369" y="150" width="90" height="56.7" as="geometry" />
+        </mxCell>
+        <mxCell id="AHIDOIKwN_Zopd-SzxPn-15" style="rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.25;entryY=0;entryDx=0;entryDy=0;shape=link;strokeColor=#7A7A7A;" edge="1" parent="1">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="150.50953566984754" y="154.0180631137759" as="sourcePoint" />
+            <mxPoint x="388.9982776657805" y="29.995347082225692" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="AHIDOIKwN_Zopd-SzxPn-16" value="3. Send Alerts" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="AHIDOIKwN_Zopd-SzxPn-15">
+          <mxGeometry x="-0.0064" y="-4" relative="1" as="geometry">
+            <mxPoint x="-11" as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="AHIDOIKwN_Zopd-SzxPn-4" value="Wazuh Manager" style="image;aspect=fixed;perimeter=ellipsePerimeter;html=1;align=center;shadow=0;dashed=0;spacingTop=3;image=img/lib/active_directory/internet_cloud.svg;" vertex="1" parent="1">
+          <mxGeometry x="100" y="153.35" width="79.37" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="AHIDOIKwN_Zopd-SzxPn-5" value="TheHive" style="image;aspect=fixed;perimeter=ellipsePerimeter;html=1;align=center;shadow=0;dashed=0;spacingTop=3;image=img/lib/active_directory/internet_cloud.svg;" vertex="1" parent="1">
+          <mxGeometry x="620" y="153.35" width="79.37" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="AHIDOIKwN_Zopd-SzxPn-17" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;shape=link;strokeColor=light-dark(#87d756, #73b14c);fillColor=#60a917;" edge="1" parent="1" source="AHIDOIKwN_Zopd-SzxPn-6" target="AHIDOIKwN_Zopd-SzxPn-3">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="AHIDOIKwN_Zopd-SzxPn-18" value="4. Enrich IOCS" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="AHIDOIKwN_Zopd-SzxPn-17">
+          <mxGeometry x="0.1963" y="2" relative="1" as="geometry">
+            <mxPoint as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="AHIDOIKwN_Zopd-SzxPn-19" style="rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;shape=link;fillColor=#1ba1e2;strokeColor=#006EAF;" edge="1" parent="1" target="AHIDOIKwN_Zopd-SzxPn-5">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="440" y="30" as="sourcePoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="AHIDOIKwN_Zopd-SzxPn-20" value="5. Send Alerts" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="AHIDOIKwN_Zopd-SzxPn-19">
+          <mxGeometry x="-0.1621" y="-3" relative="1" as="geometry">
+            <mxPoint as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="AHIDOIKwN_Zopd-SzxPn-22" style="rounded=0;orthogonalLoop=1;jettySize=auto;html=1;shape=link;fillColor=#f0a30a;strokeColor=#FF9600;" edge="1" parent="1">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="450" y="169" as="targetPoint" />
+            <mxPoint x="426.56782287901524" y="29.995141452266473" as="sourcePoint" />
+            <Array as="points">
+              <mxPoint x="510" y="120.63" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="AHIDOIKwN_Zopd-SzxPn-23" value="6. Send Email" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="AHIDOIKwN_Zopd-SzxPn-22">
+          <mxGeometry x="0.5281" y="1" relative="1" as="geometry">
+            <mxPoint x="25" y="-10" as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="AHIDOIKwN_Zopd-SzxPn-30" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.25;entryY=0;entryDx=0;entryDy=0;shape=link;fillColor=#e51400;strokeColor=#B20000;" edge="1" parent="1" source="AHIDOIKwN_Zopd-SzxPn-6" target="AHIDOIKwN_Zopd-SzxPn-4">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="AHIDOIKwN_Zopd-SzxPn-32" value="8. Send Response Action" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="AHIDOIKwN_Zopd-SzxPn-30">
+          <mxGeometry x="0.5238" y="-1" relative="1" as="geometry">
+            <mxPoint as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="AHIDOIKwN_Zopd-SzxPn-6" value="Shuffle" style="image;aspect=fixed;perimeter=ellipsePerimeter;html=1;align=center;shadow=0;dashed=0;spacingTop=3;image=img/lib/active_directory/internet_cloud.svg;" vertex="1" parent="1">
+          <mxGeometry x="389" y="10" width="50" height="31.5" as="geometry" />
+        </mxCell>
+        <mxCell id="AHIDOIKwN_Zopd-SzxPn-24" style="rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=1;entryY=0.75;entryDx=0;entryDy=0;shape=link;fillColor=#f0a30a;strokeColor=#FF9800;" edge="1" parent="1" source="AHIDOIKwN_Zopd-SzxPn-7" target="AHIDOIKwN_Zopd-SzxPn-3">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="AHIDOIKwN_Zopd-SzxPn-25" value="7. Send And Receive Email" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="AHIDOIKwN_Zopd-SzxPn-24">
+          <mxGeometry x="0.1655" relative="1" as="geometry">
+            <mxPoint x="34" y="12" as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="AHIDOIKwN_Zopd-SzxPn-26" style="rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.75;entryY=1;entryDx=0;entryDy=0;shape=link;fillColor=#e51400;strokeColor=#B20000;" edge="1" parent="1" target="AHIDOIKwN_Zopd-SzxPn-3">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="694" y="310" as="sourcePoint" />
+            <mxPoint x="439.0017223342195" y="200.0046529177743" as="targetPoint" />
+            <Array as="points">
+              <mxPoint x="530" y="310" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="AHIDOIKwN_Zopd-SzxPn-27" value="8. Send Response Action" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="AHIDOIKwN_Zopd-SzxPn-26">
+          <mxGeometry x="-0.1449" y="2" relative="1" as="geometry">
+            <mxPoint as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="AHIDOIKwN_Zopd-SzxPn-7" value="SOC Analyst" style="fontColor=#0066CC;verticalAlign=top;verticalLabelPosition=bottom;labelPosition=center;align=center;html=1;outlineConnect=0;fillColor=#CCCCCC;strokeColor=#6881B3;gradientColor=none;gradientDirection=north;strokeWidth=2;shape=mxgraph.networks.pc;" vertex="1" parent="1">
+          <mxGeometry x="680" y="290" width="100" height="70" as="geometry" />
+        </mxCell>
+        <mxCell id="AHIDOIKwN_Zopd-SzxPn-33" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;entryPerimeter=0;shape=link;fillColor=#e51400;strokeColor=#B20000;" edge="1" parent="1">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="130.00499999999994" y="199.18000000000004" as="sourcePoint" />
+            <mxPoint x="354.32" y="450.83" as="targetPoint" />
+            <Array as="points">
+              <mxPoint x="130.32" y="245.83" />
+              <mxPoint x="262.32" y="245.83" />
+              <mxPoint x="262.32" y="450.83" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="AHIDOIKwN_Zopd-SzxPn-34" value="8. Perform Responsive Action" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="AHIDOIKwN_Zopd-SzxPn-33">
+          <mxGeometry x="0.2881" y="-2" relative="1" as="geometry">
+            <mxPoint as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="AHIDOIKwN_Zopd-SzxPn-36" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="AHIDOIKwN_Zopd-SzxPn-35">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="160" y="743" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="AHIDOIKwN_Zopd-SzxPn-35" value="Windows 10&lt;div&gt;Send Events&lt;/div&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="10" y="723" width="90" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="AHIDOIKwN_Zopd-SzxPn-38" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="AHIDOIKwN_Zopd-SzxPn-37">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="470" y="743" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="AHIDOIKwN_Zopd-SzxPn-37" value="Wazuh Manager&lt;div&gt;Trigger Alerts &amp;amp; Perform Response Actions&lt;/div&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="160" y="723" width="250" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="AHIDOIKwN_Zopd-SzxPn-40" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="AHIDOIKwN_Zopd-SzxPn-39">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="625" y="670" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="AHIDOIKwN_Zopd-SzxPn-42" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="AHIDOIKwN_Zopd-SzxPn-39">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="625" y="810" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="AHIDOIKwN_Zopd-SzxPn-44" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="AHIDOIKwN_Zopd-SzxPn-39">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="850" y="743" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="AHIDOIKwN_Zopd-SzxPn-39" value="Shuffle&lt;div&gt;Receive Wazuh Alerts &amp;amp; Send Responsive Actions&lt;/div&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="480" y="723" width="290" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="AHIDOIKwN_Zopd-SzxPn-41" value="OSINT&lt;div&gt;Enrich IOCS&lt;/div&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="580" y="630" width="90" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="AHIDOIKwN_Zopd-SzxPn-43" value="TheHive&lt;div&gt;Create Alert in Case Management&lt;/div&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="525" y="813" width="200" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="AHIDOIKwN_Zopd-SzxPn-45" value="Email&lt;div&gt;Send Email &amp;amp; Responsive Actions&lt;/div&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="860" y="723" width="200" height="40" as="geometry" />
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+</mxfile>
