@@ -17,8 +17,55 @@ To build a solid foundation in cybersecurity by continuously learning, practicin
 | Case Management with TheHive                  | SOC Automation Lab|
 | Scripting and Automation for Threat Mitigation | SOC Automation Lab|
 
-## Tools
-[Provide tools and break them down into categories. Use ChatGPT to help create the link - Remove this afterwards]]
+## 🛡️ Cybersecurity Tools
+
+### 🔍 Reconnaissance & Information Gathering
+- **[theHarvester](https://github.com/laramies/theHarvester)** – Email, domain, and metadata gathering tool.
+- **[Shodan](https://www.shodan.io/)** – Search engine for Internet-connected devices.
+- **[Amass](https://github.com/owasp-amass/amass)** – DNS enumeration and attack surface mapping.
+- **[Recon-ng](https://github.com/lanmaster53/recon-ng)** – Web reconnaissance framework written in Python.
+
+### 🔓 Vulnerability Scanning & Exploitation
+- **[Nmap](https://nmap.org/)** – Network mapping and port scanning.
+- **[Nikto](https://github.com/sullo/nikto)** – Web server scanner.
+- **[Metasploit](https://github.com/rapid7/metasploit-framework)** – Penetration testing framework.
+- **[SQLMap](https://github.com/sqlmapproject/sqlmap)** – Automated SQL injection tool.
+- **[OpenVAS](https://www.openvas.org/)** – Vulnerability scanner and management tool.
+
+### 🔐 Password Attacks & Cracking
+- **[John the Ripper](https://www.openwall.com/john/)** – Password cracker.
+- **[Hashcat](https://github.com/hashcat/hashcat)** – Advanced password recovery tool.
+- **[Hydra](https://github.com/vanhauser-thc/thc-hydra)** – Fast login cracker.
+
+### 🕵️‍♂️ Network Analysis & Monitoring
+- **[Wireshark](https://www.wireshark.org/)** – Network protocol analyzer.
+- **[Tcpdump](https://www.tcpdump.org/)** – Command-line packet analyzer.
+- **[Bettercap](https://github.com/bettercap/bettercap)** – Network attack and monitoring tool.
+
+### 🧰 Web Application Testing
+- **[Burp Suite](https://portswigger.net/burp)** – Web vulnerability scanner and proxy.
+- **[OWASP ZAP](https://www.zaproxy.org/)** – Web application security scanner.
+- **[XSStrike](https://github.com/s0md3v/XSStrike)** – XSS detection suite.
+
+### 🧪 Malware Analysis & Forensics
+- **[Volatility](https://github.com/volatilityfoundation/volatility)** – Memory forensics framework.
+- **[Cuckoo Sandbox](https://github.com/cuckoosandbox/cuckoo)** – Automated malware analysis.
+- **[YARA](https://github.com/VirusTotal/yara)** – Pattern matching for malware detection.
+
+### 📦 Container & Cloud Security
+- **[Trivy](https://github.com/aquasecurity/trivy)** – Container image vulnerability scanner.
+- **[Kube-hunter](https://github.com/aquasecurity/kube-hunter)** – Kubernetes cluster penetration testing.
+- **[ScoutSuite](https://github.com/nccgroup/ScoutSuite)** – Multi-cloud security auditing.
+
+### 🔒 Endpoint & System Security
+- **[Chkrootkit](http://www.chkrootkit.org/)** – Rootkit detector.
+- **[Lynis](https://github.com/CISOfy/lynis)** – Linux auditing and hardening tool.
+
+---
+
+## 📁 Notes
+> Always use these tools ethically and legally, and only in environments you own or have permission to test.
+
 
 ## Projects
 - Detection Lab
