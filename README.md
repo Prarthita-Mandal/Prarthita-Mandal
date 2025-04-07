@@ -1,5 +1,6 @@
 # Hello, I'm PRARTHITA
-<a href="www.linkedin.com/in/prarthita-mandal"><img src="https://img.shields.io/badge/-LinkedIn-0072b1?&style=for-the-badge&logo=linkedin&logoColor=white" /></a>
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Prarthita%20Mandal-blue?logo=linkedin)](https://www.linkedin.com/in/prarthita-mandal)
+
 
 🎯 A passionate **Cybersecurity Enthusiast** exploring the world of digital defense, ethical hacking, and network security. As a fresher, I’m focused on building a strong foundation in cybersecurity concepts and hands-on tools.
 
