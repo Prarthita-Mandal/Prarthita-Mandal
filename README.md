@@ -11,7 +11,7 @@ To build a solid foundation in cybersecurity by continuously learning, practicin
 |-----------------------------------------------|----------------------------|
 | SIEM Implementation and Log Analysis          | <a href="https://google.com">Detection Lab</a>|
 | Network Traffic Monitoring and Attack Detection | <a href="https://google.com">Detection Lab</a>|
-| Security Automation with Shuffle SOAR         | SOC Automation Lab|
+| Security Automation with Shuffle SOAR         | SOC Automation Lab|You can download the related file from [this Google Drive link](https://drive.google.com/file/d/1ydokPjoVolmc7MNfBdKdQf0tFvKQiZk4/view?usp=drive_link).
 | Incident Response Planning and Execution      | SOC Automation Lab|
 | Case Management with TheHive                  | SOC Automation Lab|
 | Scripting and Automation for Threat Mitigation | SOC Automation Lab|
